@@ -1,5 +1,6 @@
 # FernFractalAnimation
 
+-Fern fractal animation
 
 -Code created by Blake Almon
 
@@ -7,3 +8,5 @@
 
 -WASD to move
 -Up down arrow keys to zoom in/out
+
+-
